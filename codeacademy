@@ -1,0 +1,26 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div{
+    height:50px;
+    width:120px;
+    border: dashed #6495ED;
+    border-radius:5px;
+    background-color:#b2cd2ee;
+    margin:auto;
+    text-align:center;
+ a{
+     text-decoration:none;
+    font:Verdana;
+    color:red;
+}
